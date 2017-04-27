@@ -1,2 +1,2 @@
 # it
-A place for non-repo specific AASHE IT issues, wikis, etc.
+An *open* place for non-repo specific AASHE IT issues, wikis, etc.
